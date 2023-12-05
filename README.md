@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />, I'm Atharva</h1>
-<h3 align="center">A learner/developer from India trying to be a part of this exiting community;)</h3>
+<h1 align="center"><b><b>H E L L O W O R L D . . .</b></b><br><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="100" height="100" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="45" height="45" /></h1><br>
+<p align="center"><i>doing random stuff so one day it will be worth <br><br>|| यदि लक्ष्य स्पष्ट हो, उसे पाने की तीव्र उत्कंठा और अदम्य उत्साह हो तो...बहुत कुछ संभव है . . . ||</i></p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satharva2004&label=Profile%20views&color=0e75b6&style=flat" alt="satharva2004" /> </p>

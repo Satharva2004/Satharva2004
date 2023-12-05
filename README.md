@@ -1,5 +1,5 @@
-<h1 align="center"><b><b>H E L L O W O R L D</b></b><br><br></h1><br>
-<p align="center"><i>doing random stuff so one day it will be worth <br><br>|| यदि लक्ष्य स्पष्ट हो, उसे पाने की तीव्र उत्कंठा और अदम्य उत्साह हो तो...बहुत कुछ संभव है . . . ||</i></p>
+<h1 align="center"><b><b>A { अ } t h { थ } a r v a { र्व }</b></b><br><br></h1><br>
+<p align="center"><i>doing random stuff so one day it will be worth <br><br><b>यदि लक्ष्य स्पष्ट हो, उसे पाने की तीव्र उत्कंठा और अदम्य उत्साह हो तो...सब कुछ संभव है ~ श्रीकृष्ण</b></i></p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satharva2004&label=Profile%20views&color=0e75b6&style=flat" alt="satharva2004" /> </p>

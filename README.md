@@ -1,5 +1,5 @@
 <h1 align="left"><b><b>A { अ } t h { थ } a r v a { र्व }</b></b><br><img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/><br></h1><br>
-<p align="left"><b>ABOUT  ME </b><br><img align="center" alt="Coding" width="80" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/><br></p>
+<p align="left"><b>ABOUT  ME </b><br><img align="center" alt="Coding" width="70" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/><br></p>
 <p align="left"><b>"Doing random stuff unitl it makes sence"</b><br><br>Diploma graduate from <i><b>Vidyalankar Polytechnic</b></i> and currently pursuing my degree at <i><b>SIES Graduate School of Technology</b></i>, Nerul, specializing in Artificial Intelligence and Data Science. 🎓 In my second year of this exciting journey, I'm not just learning about the world of AI but actively shaping it. 💻 I have a penchant for web development, honing my Java skills, and relishing the challenges of problem-solving. Away from the screen, you'll often find me engrossed in a game of chess and talking to girls</b></p></h2>
 
 

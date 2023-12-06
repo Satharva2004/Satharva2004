@@ -1,9 +1,6 @@
-<h1 align="left"><b><b>A { अ } t h { थ } a r v a { र्व }</b></b><br><img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/><br></h1><br>
-<p align="left"><i>Doing random stuff unitl it makes sence <br><br><b>यदि लक्ष्य स्पष्ट हो, उसे पाने की तीव्र उत्कंठा और अदम्य उत्साह हो तो...सब कुछ संभव है ~ श्रीकृष्ण</b></i></p><br>
-
-<h2><b>About me ~</b></h2>
-<p>Hello coder, Atharva sawant here</p> 
-<p>just enjoying the process and being consitant </p>
+<h1 align="center"><b><b>A { अ } t h { थ } a r v a { र्व }</b></b><br><img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/><br></h1><br>
+<p align="center"><b>About me</b><br><img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/><br></p>
+<p align="center"><i><b>"Doing random stuff unitl it makes sence"</b></i> <br><br>Diploma graduate from <i><b>Vidyalankar Polytechnic</b></i> and currently pursuing my degree at <i><b>SIES Graduate School of Technology</b></i>, Nerul, specializing in Artificial Intelligence and Data Science. 🎓 In my second year of this exciting journey, I'm not just learning about the world of AI but actively shaping it. 💻 I have a penchant for web development, honing my Java skills, and relishing the challenges of problem-solving. Away from the screen, you'll often find me engrossed in a game of chess and talking to girls</b></p></h2>
 
 
 <h3 align="left">Connect with me:</h3>

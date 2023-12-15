@@ -1,2 +1,1 @@
-<img width="1834" alt="Make your README" src="https://github.com/Satharva2004/Satharva2004/assets/84018291/331ab942-f065-42b5-8aa3-7dfac3c9ff7f">
-
+<img width="1834" alt="Make your README (1)" src="https://github.com/Satharva2004/Satharva2004/assets/84018291/d6935a78-c573-4eac-8a4f-ffb95cabd7af">

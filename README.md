@@ -2,7 +2,7 @@
 <br><br>
 
 
-**`Artifical Intelligence and Data Science at SIES'26`**
+**`Student of Btech'MU`**
 # Introduction
 
 I'm Atharva Sawant, cruising through my second year in Artificial Intelligence and Data Science at SIES GST. I kicked off my tech journey with a diploma in Information Technology at Vidyalankar Polytechnic.

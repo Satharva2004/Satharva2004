@@ -2,38 +2,20 @@
 # Supp, I'm Atharva
 
 **`Student of Btech'MU`**
-## Introduction
+### Introduction
 
 I'm Atharva Sawant, cruising through my second year in Artificial Intelligence and Data Science at SIES GST. I kicked off my tech journey with a diploma in Information Technology at Vidyalankar Polytechnic.
 
 I'm all about soaking up knowledge and embracing the learning adventure. My goal? To go far in the tech world! Let's connect, learn, and grow together! 🚀
-<br></br>
+<br>
+### I code with
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,vscode)](https://skillicons.dev)
 
----
+### Now Playing - Spotify 🎧
+<p>
+ <a href="[https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true)">
+   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)"/>
+ </a>
+ </p>
+  </div>
 
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
-
-
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>

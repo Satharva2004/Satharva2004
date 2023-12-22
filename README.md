@@ -1,5 +1,5 @@
 
-# Supp, I'm Atharva <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/No%20One%20Under%20Eighteen.png" alt="No One Under Eighteen" width="35" height="35" />
+# Supp, I'm Atharva
 
 **`Student of Btech'MU`**
 ## Introduction

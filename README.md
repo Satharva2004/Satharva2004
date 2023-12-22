@@ -1,9 +1,9 @@
-<img width="1007" alt="nav" src="https://github.com/Satharva2004/Satharva2004/assets/84018291/09bd9fe6-cee3-4475-9d69-837c036af0c8">
-<br><br>
+# Supp, I'm Atharva <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/No%20One%20Under%20Eighteen.png" alt="No One Under Eighteen" width="35" height="35" />
+
 
 
 **`Student of Btech'MU`**
-# Introduction
+## Introduction
 
 I'm Atharva Sawant, cruising through my second year in Artificial Intelligence and Data Science at SIES GST. I kicked off my tech journey with a diploma in Information Technology at Vidyalankar Polytechnic.
 

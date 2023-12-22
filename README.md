@@ -1,8 +1,5 @@
-![2f7feca7f6d0e9c163c5febf72b2075bb](https://github.com/Satharva2004/Satharva2004/assets/84018291/10f4d274-ffb1-4954-95a0-887aaa097de1)
 
 # Supp, I'm Atharva <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/No%20One%20Under%20Eighteen.png" alt="No One Under Eighteen" width="35" height="35" />
-
-
 
 **`Student of Btech'MU`**
 ## Introduction

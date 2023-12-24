@@ -9,7 +9,7 @@ I'm Atharva Sawant, cruising through my second year in Artificial Intelligence a
 I'm all about soaking up knowledge and embracing the learning adventure. My goal? To go far in the tech world! Let's connect, learn, and grow together! 🚀
 <br>
 ### I code with
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,vscode&theme=light)](https://skillicons.dev)
 
 ### Now Playing - Spotify 🎧
 <p>
@@ -18,7 +18,6 @@ I'm all about soaking up knowledge and embracing the learning adventure. My goal
  </a>
  </p>
   </div>
-
+  
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satharva2004&theme=swift&show_icons=true)
-

@@ -9,7 +9,7 @@ I'm Atharva Sawant, cruising through my second year in Artificial Intelligence a
 I'm all about soaking up knowledge and embracing the learning adventure. My goal? To go far in the tech world! Let's connect, learn, and grow together! 🚀
 <br>
 ### I code with
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,vscode&theme=dark)](https://skillicons.dev)
 
 ### Now Playing - Spotify 🎧
 <p>

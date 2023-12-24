@@ -19,3 +19,6 @@ I'm all about soaking up knowledge and embracing the learning adventure. My goal
  </p>
   </div>
 
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satharva2004&theme=swift&show_icons=true)
+

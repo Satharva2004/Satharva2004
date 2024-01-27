@@ -1,5 +1,5 @@
 
-# Supp, I'm Atharva <img src="https://media.giphy.com/media/VCRlsxIn8g3MeEhLsm/giphy.gif" width="122" align="right" padding="10px" >
+# Supp, I'm Atharva <img src="https://media.giphy.com/media/VCRlsxIn8g3MeEhLsm/giphy.gif" width="100" align="right" padding="10px" >
 
 **`Student of Btech'MU`**
 ### Introduction

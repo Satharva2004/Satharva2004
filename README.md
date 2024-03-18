@@ -14,7 +14,7 @@ I'm all about soaking up knowledge and embracing the learning adventure. My goal
 ---
 
 ### I code with
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,react,html,css,vscode&theme=dark)](https://skillicons.dev)
 
 ### Now Playing - Spotify 🎧
 <p>

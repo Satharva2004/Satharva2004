@@ -17,11 +17,7 @@ I'm all about soaking up knowledge and embracing the learning adventure. My goal
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,react,html,css,vscode&theme=dark)](https://skillicons.dev)
 
 ### Now Playing - Spotify 🎧
-<p>
- <a href="[https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true)">
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)"/>
- </a>
- </p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true)
   </div>
   
 ---

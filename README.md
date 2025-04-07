@@ -24,3 +24,7 @@ I'm all about soaking up knowledge and embracing the learning adventure. My goal
 
 ### Github Stats 🔰
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satharva2004&theme=catppuccin_mocha&show_icons=true)
+--
+[![trophy](https://github-profile-trophy.vercel.app/?username=Satharva2004&theme=onedark)](https://github.com/Satharva2004/github-profile-trophy)
+--
+![github-user-contribution](https://github.com/user-attachments/assets/5b8a72f9-20a6-47e0-82c3-e77256aed3eb)

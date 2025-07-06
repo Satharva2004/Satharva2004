@@ -6,7 +6,7 @@
 **`Student of Btech'MU AIDS-TE`**
 ### Introduction
 
-I'm Atharva Sawant, cruising through my third year in Artificial Intelligence and Data Science at SIES GST. I kicked off my tech journey with a diploma in Information Technology at Vidyalankar Polytechnic.
+I'm Atharva Sawant, cruising through my fourth year in Artificial Intelligence and Data Science at SIES GST. I kicked off my tech journey with a diploma in Information Technology at Vidyalankar Polytechnic.
 
 I'm all about soaking up knowledge and embracing the learning adventure. My goal? To go far in the tech world! Let's connect, learn, and grow together! 🚀
 <br>

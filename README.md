@@ -16,9 +16,8 @@ const atharva = {
 ```
 
 <br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+ 
+---
 
 ## 🛠️ Technical Expertise
 
@@ -59,9 +58,7 @@ const atharva = {
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> What I'm Currently Working On
 
@@ -70,9 +67,7 @@ const atharva = {
 - 👯 Looking to collaborate on innovative tech solutions
 - 💡 Always open to learning new technologies
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 🎵 Current Soundtrack
 
@@ -125,9 +120,7 @@ const atharva = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-6c92-4c1d-9d6e-4e6f7e4f5f1a.gif" width="30"> Fun Facts
 
@@ -137,15 +130,11 @@ const atharva = {
 - 🎵 Music fuels my coding sessions
 - 💻 Love turning ideas into reality through code
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Thanks for visiting! Let's connect and build something amazing together! 🚀
   <img src="https://komarev.com/ghpvc/?username=Satharva2004&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---

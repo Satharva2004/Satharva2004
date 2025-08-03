@@ -60,7 +60,7 @@ const atharva = {
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> What I'm Currently Working On
+### What I'm Currently Working On
 
 - 🔭 Building AI/ML projects for real-world impact
 - 🌱 Exploring advanced Data Science techniques

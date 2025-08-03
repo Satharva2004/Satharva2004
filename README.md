@@ -119,7 +119,7 @@ const atharva = {
 ---
 
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Thanks for visiting! Let's connect and build something amazing together! 🚀
+Thanks for visiting! Let's connect and build something amazing together! 🚀
   <img src="https://komarev.com/ghpvc/?username=Satharva2004&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 

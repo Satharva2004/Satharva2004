@@ -2,7 +2,9 @@
 
 <p align="center">
   <br>
-  <img width="400" src="https://raw.githubusercontent.com/birobirobiro/awesome-shadcn-ui/64729b2c178e3fdcb42c0c7bf341bcde7ae502ea/assets/logo.svg" alt="logo of awesome-shadcn/ui repository">
+  <!-- <img width="400" src="https://raw.githubusercontent.com/birobirobiro/awesome-shadcn-ui/64729b2c178e3fdcb42c0c7bf341bcde7ae502ea/assets/logo.svg" alt="logo of awesome-shadcn/ui repository"> -->
+  <img width="250" height="1024" alt="Credits" src="https://github.com/user-attachments/assets/7a380951-9df3-4e2e-8bf4-725ed9b2805a" />
+
   <br>
   <br>
 </p>

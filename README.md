@@ -15,7 +15,9 @@ Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
 
 
 <div align="center">
-  vibing to
-  <br>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=000000&bar_color_cover=false" width="380" />
-</div>
+  <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=true&mode=light" width="280">
+  </a>
+</p>
+

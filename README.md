@@ -15,9 +15,22 @@ Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
 
 
 <div align="center">
-  <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=true&mode=light" width="280">
-  </a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satharva2004&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satharva2004&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&border=333333" height="160"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satharva2004&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" height="140"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satharva2004&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=false&border_color=333333" width="100%"/>
+</div>
+
+<div align="center">
+  <p align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark" width="280">
+    </a>
+  </p>
+</div>

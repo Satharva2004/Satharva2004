@@ -35,3 +35,4 @@ Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
     </a>
   </p>
 </div>
+<img width="2064" height="512" alt="Gemini_Generated_Image_8fs7rp8fs7rp8fs7" src="https://github.com/user-attachments/assets/dc4ec5bf-eb44-45b3-a1bd-a5fe259fea52" />

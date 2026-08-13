@@ -12,7 +12,7 @@ Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:satharva2004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Atharva_Sawant)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Satharva2004)
-[![Huggingface](https://img.shields.io/badge/Huggingface-000000?style=flat-square&huggingface=github&logoColor=white)](https://huggingface.co/atharvasawat99)
+[![Huggingface](https://img.shields.io/badge/Huggingface-000000?style=flat-square&huggingface=github&logoColor=white)](https://huggingface.co/atharvasawant99)
 
 
 <div align="center">

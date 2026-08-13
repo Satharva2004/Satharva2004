@@ -14,21 +14,6 @@ Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Satharva2004)
 [![Huggingface](https://img.shields.io/badge/Huggingface-000000?style=flat-square&huggingface=github&logoColor=white)](https://huggingface.co/atharvasawant99)
 
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Satharva2004&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false" height="130"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satharva2004&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&border=333333" height="130"/>
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satharva2004&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" height="110"/>
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satharva2004&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=false&border_color=333333" width="90%"/>
-</div> -->
-
-
 <div align="center">
   <p align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true">

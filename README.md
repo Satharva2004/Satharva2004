@@ -3,17 +3,17 @@
 <td align="left">
 <strong>AI × Full-Stack Engineer.</strong> Building things that shouldn't exist yet.
 </td>
-<td align="right">
+<!-- <td align="right">
 <a href="https://www.linkedin.com/in/atharvasawant0804">LinkedIn</a> ·
 <a href="mailto:satharva2004@gmail.com">Gmail</a> ·
 <a href="https://leetcode.com/u/Atharva_Sawant">LeetCode</a> ·
 <a href="https://github.com/Satharva2004">GitHub</a> ·
 <a href="https://huggingface.co/atharvasawant99">Hugging Face</a>
-</td>
+</td> -->
 </tr>
 </table>
 
-# hey, I'm Atharva 👋
+# hey, i'm atharva
 
 Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
 

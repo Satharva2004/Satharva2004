@@ -23,7 +23,9 @@ Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Satharva2004)
 [![Huggingface](https://img.shields.io/badge/Huggingface-000000?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/atharvasawant99)
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true)
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark" width="200">
+</a>
 
 I build **AI-powered applications, full-stack systems, and machine learning tools** — from LLM-driven products to production-grade web apps.
 

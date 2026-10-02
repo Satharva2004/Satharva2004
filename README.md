@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong>AI × Full-Stack Engineer.</strong> Building things that shouldn't exist yet.
+<strong>AI × Full-Stack Engineer.</strong> 
 </td>
 <!-- <td align="right">
 <a href="https://www.linkedin.com/in/atharvasawant0804">LinkedIn</a> ·
@@ -12,10 +12,9 @@
 </td> -->
 </tr>
 </table>
+<img width="100" alt="hello" src="https://github.com/user-attachments/assets/895d505c-d319-4d0a-9a4a-5f4155c9e9cf" />
 
-# hey, i'm atharva
-
-Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things that shouldn't exist yet
+Atharva Sawant &nbsp;·&nbsp; Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things super fast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvasawant0804)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:satharva2004@gmail.com)

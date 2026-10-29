@@ -1,3 +1,4 @@
+<img width="100" alt="hello" src="https://github.com/user-attachments/assets/895d505c-d319-4d0a-9a4a-5f4155c9e9cf" />
 <table width="100%">
 <tr>
 <td align="left">
@@ -12,15 +13,15 @@
 </td> -->
 </tr>
 </table>
-<img width="100" alt="hello" src="https://github.com/user-attachments/assets/895d505c-d319-4d0a-9a4a-5f4155c9e9cf" />
-
-Atharva Sawant &nbsp;·&nbsp; Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things super fast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvasawant0804)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:satharva2004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Atharva_Sawant)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Satharva2004)
 [![Huggingface](https://img.shields.io/badge/Huggingface-000000?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/atharvasawant99)
+Atharva Sawant &nbsp;·&nbsp; Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things super fast
+
+
 
 <!-- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark" width="200">

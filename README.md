@@ -1,4 +1,3 @@
-<img width="100" alt="hello" src="https://github.com/user-attachments/assets/895d505c-d319-4d0a-9a4a-5f4155c9e9cf" />
 <table width="100%">
 <tr>
 <td align="left">
@@ -13,15 +12,15 @@
 </td> -->
 </tr>
 </table>
+<img width="100" alt="hello" src="https://github.com/user-attachments/assets/895d505c-d319-4d0a-9a4a-5f4155c9e9cf" />
+
+Atharva Sawant &nbsp;·&nbsp; Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things super fast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvasawant0804)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:satharva2004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Atharva_Sawant)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Satharva2004)
 [![Huggingface](https://img.shields.io/badge/Huggingface-000000?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/atharvasawant99)
-Atharva Sawant &nbsp;·&nbsp; Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building things super fast
-
-
 
 <!-- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fdcavvejfkunwaz4h34rttpugq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark" width="200">
@@ -30,7 +29,7 @@ Atharva Sawant &nbsp;·&nbsp; Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building thi
 
 I build **AI-powered applications, full-stack systems, and machine learning tools** — from LLM-driven products to production-grade web apps.
 
-### Tech Stack
+### i build with - 
 
 ![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6)
@@ -49,5 +48,8 @@ I build **AI-powered applications, full-stack systems, and machine learning tool
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-161B22?style=flat&logo=scikitlearn&logoColor=F7931E)
+
+### worked at - <a href="https://www.vahan.co/"><img src="https://vahan.co/images/vahan-logo.webp" height="40" align="middle" alt="Vahan AI" /></a><a href="https://www.kpmg.com/"><img src="https://logotyp.us/file/kpmg.svg" height="60" align="middle" alt="KPMG" /></a><a href="https://www.schbang.com/"><img src="https://d239x8eg3a54e6.cloudfront.net/Schbang%20white1-p-1080.png" height="22" align="middle" alt="Schbang" /></a>
+
 
 <img src="https://count.getloli.com/@Satharva2004?name=Satharva2004&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />

@@ -27,7 +27,8 @@ Atharva Sawant &nbsp;·&nbsp; Mumbai, India 🇮🇳 &nbsp;·&nbsp; Building thi
   
 </a> -->
 
-I build **AI-powered applications, full-stack systems, and machine learning tools** — from LLM-driven products to production-grade web apps.
+
+### worked at - <a href="https://www.vahan.co/"><img src="https://vahan.co/images/vahan-logo.webp" height="40" align="middle" alt="Vahan AI" /></a><a href="https://www.kpmg.com/"><img src="https://logotyp.us/file/kpmg.svg" height="60" align="middle" alt="KPMG" /></a><a href="https://www.schbang.com/"><img src="https://d239x8eg3a54e6.cloudfront.net/Schbang%20white1-p-1080.png" height="22" align="middle" alt="Schbang" /></a>
 
 ### i build with - 
 
@@ -49,7 +50,6 @@ I build **AI-powered applications, full-stack systems, and machine learning tool
 ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-161B22?style=flat&logo=scikitlearn&logoColor=F7931E)
 
-### worked at - <a href="https://www.vahan.co/"><img src="https://vahan.co/images/vahan-logo.webp" height="40" align="middle" alt="Vahan AI" /></a><a href="https://www.kpmg.com/"><img src="https://logotyp.us/file/kpmg.svg" height="60" align="middle" alt="KPMG" /></a><a href="https://www.schbang.com/"><img src="https://d239x8eg3a54e6.cloudfront.net/Schbang%20white1-p-1080.png" height="22" align="middle" alt="Schbang" /></a>
 
 
 <img src="https://count.getloli.com/@Satharva2004?name=Satharva2004&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
